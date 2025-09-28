@@ -1,0 +1,5 @@
+print('=====ENTREVISTA DE EMPREGO=====')
+nome = input('Digite seu nome completo: ')
+endereco = input('Digite seu endereço: ')
+print(f'Pefeito {nome}, vamos avaliar seu pedido de auxílio transporte, visto que seu endereço: {endereco}, está muito longe de nossa empresa!')
+print(nome, endereco)
