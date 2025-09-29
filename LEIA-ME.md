@@ -1,7 +1,7 @@
 # auxilio_transporte
 Auxílio Transporte
 
-Script para cálculo ou auxílio de transporte (nome provisório)
+Script para cálculo ou auxílio de transporte 
 
 🧐 Sobre
 
